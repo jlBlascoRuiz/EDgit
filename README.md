@@ -29,4 +29,6 @@ Eliminar remotos
 `git remote remove EDgit`
 
 
-Copia JLBlasco
+## editado por :
+
+JLBlasco rama miDev
