@@ -27,3 +27,6 @@ Agregar remotos
 
 Eliminar remotos
 `git remote remove EDgit`
+
+
+Copia JLBlasco
